@@ -4,9 +4,11 @@
 
 The following project is an analysis of kickstarter campaigns data  gathered from 19 different countries to discover trends on their performances.
 
+
 ### Purpose
 
 The purpose of this analysis is to compare how different kickstarter campaigns performed in relation to their launch dates and their funding goals.
+
 
 ## Analysis and Challenges
 
@@ -34,19 +36,24 @@ The purpose of this analysis is to compare how different kickstarter campaigns p
 
 ### Challenges and Difficulties Encountered
 
-Inconsistencies were found in the *Theater campaigns Outcomes based on Launch Date* data.
+1. Inconsistencies were found in the *Theater campaigns Outcomes based on Launch Date* data.
 - There is no data recorded in 2009.
 - The number of theater campaigns launched between 2009 and 2013, is considerably lower compared to campaigns launched on 2014 through 2016.
 - There is very little data recorded in 2017. A total of 31 campaigns between January and February only.
 - 96% of the data collected is concentrated within the years 2014 and 2016.
-- It is unclear why there is little data before the year 2014 and in 2017. It is possible that crowdfunding campaigns for theater became popular in the year 2014 and that their popularity is decreasing in 2017. However, more information is needed to better understand the inconsistencies in the data set.
+- It is unclear why there is little data before the year 2014 and in 2017. It is possible that crowdfunding campaigns for theater became popular in the year 2014 and that their popularity is decreasing in 2017. However, more information is needed to better understand the inconsistencies in the dataset.
+
+2. Just by looking at the funding goal and successfulness of the kickstarter is not enough to correlate goal amount to the outcome of the campaign. There are many factors that can help a kickstarter campaign be successful, project description and rewards offered to backers being an example of these factors.
+
+3. It would be interesting to compare the goal amount to the pledge amount to determine if the amount asked for the project had an impact on the outcome of the campaign.
 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-
+  - It seems to be best to launch a campaign during the months of May and June due to higher rates of successful campaigns and lower rates of failed campaigns.
+  - It is very unlikely for a Theater campaign to be canceled.
 
 - What can you conclude about the Outcomes based on Goals?
 
