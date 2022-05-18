@@ -23,9 +23,12 @@ The purpose of this analysis is to compare how different crowdfunding campaigns 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104762216/168959485-ebe95235-3068-4ebd-9d8d-5902a988bc07.png)
 
-1. Data from 976 Plays crowdfunding campaigns is being shown on the  graph above.
+1. Data from 976 *Plays* crowdfunding campaigns is being shown on the  graph above.
 2. Most successful campaigns had a goal of less than $10,000.
-3. All of the 93 campaigns
+3. **All** of the 93 campaigns within the $5,000 and $9,999 goal range were funded.
+4. More than 50% of campaigns within the $10,000 and $19,999 goal range were funded.
+5. More than 60% of campaigns within the $35,000 and $44,999 goal range were funded.
+6. Campaigns with a goal range of $45,000 or more, were unlikely to be funded.
 
 
 ### Challenges and Difficulties Encountered
@@ -41,6 +44,8 @@ Inconsistencies were found in the *Theater campaigns Outcomes based on Launch Da
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+
 
 - What can you conclude about the Outcomes based on Goals?
 
