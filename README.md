@@ -23,6 +23,13 @@ The purpose of this analysis is to compare how different crowdfunding campaigns 
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104762216/168959485-ebe95235-3068-4ebd-9d8d-5902a988bc07.png)
+
+1. Data from 976 Plays crowdfunding campaigns is being shown on the  graph above.
+2. Most successful campaigns had a goal of less than $10,000.
+3. All of the 93 campaigns
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
