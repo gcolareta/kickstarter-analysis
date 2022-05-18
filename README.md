@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-The following project is an analysis of crowdfunding campaigns data to uncover trends on their performance.    
+The following project is an analysis of kickstarter campaigns data  gathered from 19 different countries to discover trends on their performances.
 
 ### Purpose
 
-The purpose of this analysis is to compare how different crowdfunding campaigns performed in relation to their launch dates and their funding goals.
+The purpose of this analysis is to compare how different kickstarter campaigns performed in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
@@ -15,8 +15,9 @@ The purpose of this analysis is to compare how different crowdfunding campaigns 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104762216/168958694-072e2344-93f2-410e-887c-2110fe46c24e.png)
 
 1. Data from 1,369 *Theater* crowdfunding campaigns, from the years 2009 through 2017, was analyzed.
-2. Campaigns launched in May had the highest rate of success. Out of the 166 campaigns launched, 67% of them were successful, 31% failed and 2% were canceled. 
-3. Campaigns launched in June recorded similar numbers to the ones in May. Out of the 153 campaigns launched, 65% were successful, 32% failed and 3% were canceled.
+2. These theater campaigns include musicals, plays and spaces as subcategories.
+3. Campaigns launched in May had the highest rate of success. Out of the 166 campaigns launched, 67% of them were successful, 31% failed and 2% were canceled. 
+4. Campaigns launched in June recorded similar numbers to the ones in May. Out of the 153 campaigns launched, 65% were successful, 32% failed and 3% were canceled.
 
 
 ### Analysis of Outcomes Based on Goals
