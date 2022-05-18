@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The following project is an analysis of kickstarter campaigns data  gathered from 19 different countries to discover trends on their performances.
+The following project is an analysis of kickstarter campaigns data  gathered from 19 different countries to discover trends on their performance.
 
 
 ### Purpose
@@ -26,7 +26,7 @@ The purpose of this analysis is to compare how different kickstarter campaigns p
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104762216/168959485-ebe95235-3068-4ebd-9d8d-5902a988bc07.png)
 
-1. Data from 976 *Plays* crowdfunding campaigns is being shown on the  graph above.
+1. Data from 976 *Plays* crowdfunding campaigns is being shown on the graph above.
 2. Most successful campaigns had a goal of less than $10,000.
 3. **All** of the 93 campaigns within the $5,000 and $9,999 goal range were funded.
 4. More than 50% of campaigns within the $10,000 and $19,999 goal range were funded.
@@ -51,12 +51,16 @@ The purpose of this analysis is to compare how different kickstarter campaigns p
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
   - It seems to be best to launch a campaign during the months of May and June due to higher rates of successful campaigns and lower rates of failed campaigns.
   - It is very unlikely for a Theater campaign to be canceled.
 
 - What can you conclude about the Outcomes based on Goals?
+	- Most successful kickstarter campaigns have lower fundraising goals than failed kickstarter campaigns.
 
 - What are some limitations of this dataset?
+	- There are inconsistencies in the amount of data collected through the years.
+	- It would be helpful to have access to data pertaining rewards offered to backers for funding kickstarters and also some type of project description category (as backers are probably likely to fund projects they like).
 
 - What are some other possible tables and/or graphs that we could create?
+	- Comparison of Goal and Pledge amounts
+	- To narrow results by country and subcategory to compare outcomes based on geographical location.
