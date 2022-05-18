@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter Challenge 1
 
 ## Overview of Project
 
