@@ -12,7 +12,7 @@ The purpose of this analysis is to compare how different crowdfunding campaigns 
 
 ### Analysis of Outcomes Based on Launch Date
 
-Theater_Outcomes_vs_Launch~dark@2x.png
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104762216/168958694-072e2344-93f2-410e-887c-2110fe46c24e.png)
 
 1. Data from 1,369 Theater crowdfunding campaigns has been collected from 2009 through 2017, as shown on the graph above.
 2. There is no data recorded in 2009.
